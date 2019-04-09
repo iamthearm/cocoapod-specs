@@ -1,0 +1,21 @@
+{
+  "name": "GCHelper",
+  "version": "0.6.1",
+  "summary": "A lightweight helper for GameKit, written in Swift",
+  "homepage": "https://github.com/jackcook/GCHelper",
+  "license": "MIT",
+  "authors": {
+    "ARM": "iamwhoamthearm@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/iamthearm/GCHelper.git",
+    "tag": "0.6"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/*",
+  "frameworks": "GameKit",
+  "pushed_with_swift_version": "5.0"
+}
